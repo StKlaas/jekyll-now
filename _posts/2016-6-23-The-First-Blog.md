@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: The first blog
 comments: true
 ---
