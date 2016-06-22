@@ -1,3 +1,8 @@
+---
+layout: default
+title: The first blog
+comments: true
+---
 # THis is my first posted blog
 
 ## Test it
